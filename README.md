@@ -1,4 +1,4 @@
-# ZIpHandler
+# ZipHandler
 
 A very basic zip handler for uncompressed zip files.
 
